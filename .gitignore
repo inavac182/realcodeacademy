@@ -1,3 +1,8 @@
+build/
+.firebase/
+.DS_Store
+.firebaserc
+
 # Logs
 logs
 *.log
