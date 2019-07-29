@@ -1,5 +1,4 @@
-# 1xdevelopers
+# Real Code Academy
 
-Just for fun :D
 
-Visit at: 1xdevelopers.com 
+Visit at: realcodeacademy.com 
