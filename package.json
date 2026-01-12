@@ -21,7 +21,7 @@
     "concurrently": "^4.1.0",
     "less": "^3.9.0",
     "less-watch-compiler": "^1.13.0",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^5.0.1"
   },
   "repository": {
     "type": "git",
